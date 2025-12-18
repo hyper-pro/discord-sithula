@@ -1,0 +1,5 @@
+{
+  "name": "NexCord",
+  "description": "A Discord-inspired social platform featuring real-time chat simulation and integrated AI assistants using the Gemini API.",
+  "requestFramePermissions": []
+}
